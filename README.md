@@ -9,5 +9,3 @@ A **personal AI productivity system** that monitors your daily notes or work log
 - Emotion distribution charts
 - Streamlit web dashboard for interactive visualization
 - Works completely offline with open-source AI models
-
-## Project Structure
